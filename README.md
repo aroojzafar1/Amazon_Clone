@@ -11,7 +11,7 @@ CSS: For styling and layout.
 JavaScript: For interactivity and dynamic content.
 
 Setup
-Clone the repository:
+Clone the repository: https://github.com/aroojzafar1/Amazon_Clone.git
 Open index.html in your browser to view the project.
 
 Contributing
