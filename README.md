@@ -1,4 +1,5 @@
-Amazon Clone
+# Amazon Clone
+
 Overview
 
 This project is a front-end clone of the Amazon website, built using only HTML, CSS, and JavaScript. It aims to replicate the look and feel of the Amazon user interface, providing a familiar shopping experience.
