@@ -10,6 +10,16 @@ HTML: For the structure of the web pages.
 CSS: For styling and layout.
 JavaScript: For interactivity and dynamic content.
 
+Important: Unzipping File
+Warning: Please unzipping the project file ================>>> amazon_clone_img.zip.
+
+How to Unzip:
+
+Windows: Right-click the ZIP file, select "Extract All...", and choose a destination folder.
+macOS: Double-click the ZIP file to automatically extract it to the same location.
+Linux: Use the command unzip yourfile.zip in the terminal.
+Following these steps will help ensure the project runs smoothly without any extraction-related issues.
+
 Setup
 Clone the repository: https://github.com/aroojzafar1/Amazon_Clone.git
 Open index.html in your browser to view the project.
